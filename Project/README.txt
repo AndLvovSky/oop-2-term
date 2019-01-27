@@ -1,1 +1,1 @@
-Project
+Project: UML and Design Patterns
