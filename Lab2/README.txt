@@ -1,1 +1,1 @@
-Second laboratory work
+Second laboratory work: Design Patterns
