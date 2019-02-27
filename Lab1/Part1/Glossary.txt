@@ -1,0 +1,13 @@
+Guest - site visitor, who isn't logged in
+User - logged in guest
+Administrator - person, who updates site
+Problem Solver - user, who solves problems
+Problem Setter - administrator, who updates site's problems database
+Technical Staff - administrators, who update internal systems
+Queue - pages, where are results of testing all of submissions, sent by Problem Solvers
+Leaderboard - pages with statistics about each user, sorted by number of solved problems
+Competition - place, where users compete, solving fixed problems set
+Discussions - e-olymp forum
+Articles - set of articles, wrote by administrators, which include help
+Rank - user position in Leaderboard
+Profile - mutable and immutable information associated with user  
