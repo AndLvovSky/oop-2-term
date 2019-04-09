@@ -1,1 +1,0 @@
-First laboratory work: UML
