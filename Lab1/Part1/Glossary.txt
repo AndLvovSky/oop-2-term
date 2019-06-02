@@ -1,0 +1,11 @@
+Guest - site visitor, who isn't logged in
+User - logged in visitor
+Administrator - person, who updates site
+Technical Staff - people, who update internal systems
+Queue - pages, where are results of testing all of submissions, sent by Users
+Leaderboard - pages with statistics about each user, sorted by number of solved problems
+Competition - place, where users compete, solving fixed problems set
+Discussions - e-olymp forum
+Articles - set of articles, wrote by administrators, which include help
+Rank - user position in the leaderboard
+Profile - mutable and immutable information associated with user  
